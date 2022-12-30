@@ -1,5 +1,4 @@
-Create a LUA Script for roblox that generates a UI Library Similar to Google Material(Material.IO) 
-Include these: Button, Toggle, Slider, Dropdown, Tabs, Color Picker, and Snackbar. If you can make it animated, Please do. It should be used to create UI with lines. Make it simple like this: function NewTextBox("Title","Text")
+
 
 -- Generate UI Library
 
